@@ -1,0 +1,16 @@
+{
+  "name": "cryptopass-server",
+  "version": "1.0.0",
+  "description": "CryptoPass Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Sergio Valdés Valdés",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-aes": "^1.0.1"
+  }
+}
